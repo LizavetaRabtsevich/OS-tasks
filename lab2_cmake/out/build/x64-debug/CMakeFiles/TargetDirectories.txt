@@ -1,5 +1,0 @@
-D:/3 сем оси/lab2_cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/3 сем оси/lab2_cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-D:/3 сем оси/lab2_cmake/out/build/x64-debug/lab2_cmake/CMakeFiles/lab2_cmake.dir
-D:/3 сем оси/lab2_cmake/out/build/x64-debug/lab2_cmake/CMakeFiles/edit_cache.dir
-D:/3 сем оси/lab2_cmake/out/build/x64-debug/lab2_cmake/CMakeFiles/rebuild_cache.dir
