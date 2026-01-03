@@ -1,0 +1,4 @@
+Report on data.bin
+Номер 	 Имя 	 Часы 	 Зарплата
+1	lok	4	20
+2	din	5	25

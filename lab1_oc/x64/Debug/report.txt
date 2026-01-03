@@ -1,0 +1,5 @@
+Report on file.dat
+Number 	 Name 	 Hours 	 Salary
+34	54	34	110.16
+123	123	123	398.52
+234	234	234	758.16
